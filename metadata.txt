@@ -10,7 +10,7 @@ version=0.1
 author=Antonio Sobral Almeida
 email=66124.almeida@gmail.com
 
-about=The Input raster must be a raster with defined NODATA value, and DATA values should preferably be of 32 bit floating point type. Output raster, named "Quantilized", is a 32 bit floating point type, with a NODATA value of -99999.
+about=The Input raster must be a raster with defined NODATA value, and DATA values should preferably be of 32 bit floating point type. Output raster, named "Quantilized", is a 32 bit floating point type, with a NODATA value of -99999. For more information, please visit: https://github.com/Almeida100/Quantilizer
 
 tracker=https://github.com/Almeida100/Quantilizer/issues
 repository=https://github.com/Almeida100/Quantilizer
