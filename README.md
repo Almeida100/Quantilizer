@@ -8,11 +8,11 @@ This raster represents an excerpt from a forest fire risk map, not yet quantiliz
 
 (https://user-images.githubusercontent.com/37844852/114612714-5fbc3a80-9c9a-11eb-8fc5-e3a9631ebbc9.png)
 
-This histogram shows how data spreads continuously across its data range: 0 to 24
+This histogram shows how data spreads continuously across its data range: 4 to 24
 
 (https://user-images.githubusercontent.com/37844852/114614485-795e8180-9c9c-11eb-9633-13ef147d0220.png)
 
-This raster shows the result of applying the "Quantilizer" plugin:
+This raster shows the result of applying the "Quantilizer" plugin (along with a singleband pseudocolor inverse RYG ramp):
 
 (https://user-images.githubusercontent.com/37844852/114614793-dce8af00-9c9c-11eb-8d9e-29d8d5787f96.png)
 
